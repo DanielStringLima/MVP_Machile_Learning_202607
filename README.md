@@ -2,7 +2,7 @@
 
 # Como acessar o projeto
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanielStringLima/MVP_Machile_Learning_202607/blob/main/mvp_machine_learning_e_analytics_Analise_de_Credito_Daniel_Lima.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/DanielStringLima/MVP_Machile_Learning_202607/blob/main/mvp_machine_learning_e_analytics_Analise_de_Credito_Daniel_Lima.ipynb)
 
 # Objetivo do Projeto
 Este projeto apresenta a análise de dados, o pré-processamento e o desenvolvimento de um modelo de Machine Learning utilizando o dataset Loan Approval Prediction Dataset. O objetivo é analisar quais são as variáveis que interferem na aprovação ou reprovação do crédito solicitado e criar um modelo de ML que auxilie na tomada de decisão entre aprovar ou não o crédito para o cliente.
